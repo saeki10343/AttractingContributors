@@ -8,3 +8,4 @@
 - Mercari
 - YouTube
 - X
+- Gemini
