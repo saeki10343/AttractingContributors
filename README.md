@@ -11,3 +11,6 @@
 - Gemini
 - NotebookLM
 - Steam
+- Girls' Frontline
+- Bilibili
+- Line
