@@ -10,5 +10,6 @@
 - X
 - Gemini
 - NotebookLM
+- Girls' Frontline
 - Bilibili
 - Line
