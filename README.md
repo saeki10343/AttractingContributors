@@ -7,3 +7,4 @@
 - ChatGPT
 - Mercari
 - YouTube
+- X
