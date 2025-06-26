@@ -14,3 +14,4 @@
 - Girls' Frontline
 - Bilibili
 - Line
+- Firefox
