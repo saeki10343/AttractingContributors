@@ -14,4 +14,5 @@
 - Girls' Frontline
 - Bilibili
 - Line
+- Firefox
 - Webex
