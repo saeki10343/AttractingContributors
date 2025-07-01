@@ -2,3 +2,9 @@
 
 # List of place
 - cream brulee
+- cream puff
+- lumonde
+- Potato chips
+- 堅あげポテト 関西だししょうゆ
+- グミ
+- Potato Chips(Calbee)
