@@ -1,6 +1,7 @@
 # Please indicate your favorite sweets.
 
 # List of place
+- Chocolate
 - cream brulee
 - cream puff
 - lumonde
