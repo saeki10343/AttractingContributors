@@ -9,4 +9,6 @@
 - Ubiquitous
 - Sequential Data Modeling 系列データモデリング
 - Software Engineering ソフトウェア工学
+- Robotics ロボティクス
+- Research　Writing
 
