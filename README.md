@@ -10,3 +10,5 @@
 - グミ
 - Potato Chips(Calbee)
 - GENJI-PIE
+- 千寿せんべい
+- オレオ/Oreo
