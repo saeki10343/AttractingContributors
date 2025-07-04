@@ -9,6 +9,7 @@
 - 堅あげポテト 関西だししょうゆ
 - グミ
 - Potato Chips(Calbee)
+- GENJI-PIE
 - 千寿せんべい
 - オレオ/Oreo
 - 酢こんぶ
