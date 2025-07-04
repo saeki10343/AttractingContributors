@@ -11,4 +11,5 @@
 - Potato Chips(Calbee)
 - 千寿せんべい
 - オレオ/Oreo
+- 酢こんぶ
 - Pain au Chocolat
